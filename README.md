@@ -1,4 +1,4 @@
-# prayogateguh
+# Prayoga Teguh
 
 # 👀 Summary
 
