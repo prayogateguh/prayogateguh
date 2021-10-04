@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/prayogateguh/prayogateguh/main/profile-summary-card-output/default/4-productive-time.svg)
+```
+
+    
