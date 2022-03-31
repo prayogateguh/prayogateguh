@@ -6,9 +6,6 @@
   <a href="https://github.com/prayogateguh/prayogateguh/">
     <img src="https://komarev.com/ghpvc/?username=prayogateguh&color=blueviolet" alt="syui" />
   </a>
-  <a href="https://github.com/prayogateguh">
-    <img height="20" src="https://img.shields.io/github/followers/prayogateguh?label=follow&logo=github&style=flat" />
-  </a>
 </p>
 
 ## 📊 Details & 🌟 Stars
